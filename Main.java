@@ -12,5 +12,6 @@ class Main {
         System.out.println("Git rebase Test  -- Commit 1");
         System.out.println("Git rebase Test  -- Commit 3");
         System.out.println("Git rebase Test  -- Commit 5");
+        System.out.println("Git Rebase Revision is Successfull");
     }
 }
