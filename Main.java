@@ -3,5 +3,6 @@ class Main {
         System.out.println("Git Clone Succesfull...");
         System.out.println("Git Branch Succesfull...");
         System.out.println("Git Merge Test  -- Commit 1");
+        System.out.println("Git Merge Test  -- Commit 2");
     }
 }
