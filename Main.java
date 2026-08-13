@@ -9,6 +9,7 @@ class Main {
         System.out.println("Git Merge Test  --Commit 4");
         System.out.println("Git Rebase Test  --Commit 2");
         System.out.println("Git Rebase Test  --Commit 4");
+        System.out.println("Git rebase Test  -- Commit 1");
 
     }
 }
